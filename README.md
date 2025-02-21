@@ -53,5 +53,13 @@ Used in AI assistants like ChatGPT, Google Assistant, and Siri.
 9.Saving the Model and Tokenizer
 
 10.Using the Trained Model for Inference
+# Requirements:
+Transformers
+
+# Programming
+Python
+
+# Compiler Type
+I have complied it on GPU.
 # Owner
 [Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
